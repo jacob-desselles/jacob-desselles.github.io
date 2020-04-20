@@ -22,13 +22,13 @@ description: Literally the best rhythm gamer of all time.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Medium: "https://medium.com/@jacob.desselles"
+    - Kaggle: "https://www.kaggle.com/jacobdesselles"
+  Author's home: "https://www.youtube.com/watch?v=KEmtwHLdccg"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+#avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jacob Desselles
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
